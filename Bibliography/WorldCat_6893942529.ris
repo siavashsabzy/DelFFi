@@ -1,0 +1,12 @@
+TY  - JOUR
+DB  - /z-wcorg/
+DP  - http://worldcat.org
+ID  - 6893942529
+LA  - English
+T1  - Attitude control system of the Delfi-n3Xt satellite
+AU  - Reijneveld, J.
+AU  - Choukroun, D.
+Y1  - 2013///
+JF  - Progress in Flight Dynamics, GNC, and Avionics 6 (2013) 189-208
+AB  - This work is concerned with the development of the attitude control algorithms that will be implemented on board of the Delfi-n3xt nanosatellite, which is to be launched in 2013. One of the mission objectives is to demonstrate Sun pointing and three axis stabilization. The attitude control modes and the associated algorithms are described. The control authority is shared between three body-mounted magnetorquers (MTQ) and three orthogonal reaction wheels. The attitude information is retrieved from Sun vector measurements, Earth magnetic field measurements, and gyro measurements. The design of the control is achieved as a trade between simplicity and performance. Stabilization and Sun pointing are achieved via the successive application of the classical Bdot control law and a quaternion feedback control. For the purpose of Sun pointing, a simple quaternion estimation scheme is implemented based on geometric arguments, where the need for a costly optimal filtering algorithm is alleviated, and a single line of sight (LoS) measurement is required ? here the Sun vector. Beyond the three-axis Sun pointing mode, spinning Sun pointing modes are also described and used as demonstration modes. The three-axis Sun pointing mode requires reaction wheels and magnetic control while the spinning control modes are implemented with magnetic control only. In addition, a simple scheme for angular rates estimation using Sun vector and Earth magnetic measurements is tested in the case of gyro failures. The various control modes performances are illustrated via extensive simulations over several orbits time spans. The simulated models of the dynamical space environment, of the attitude hardware, and the onboard controller logic are using realistic assumptions. All control modes satisfy the minimal Sun pointing requirements allowed for power generation.
+ER  - 

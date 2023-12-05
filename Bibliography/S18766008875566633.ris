@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Using a MEMS pendulum to measure the gravity gradient in orbit: a new concept for a miniaturized Earth sensor
+AU  - Ghose, K.
+AU  - Shea, H.R.
+JO  - Procedia Chemistry
+VL  - 1
+IS  - 1
+SP  - 548
+EP  - 551
+PY  - 2009
+DA  - 2009/09/01/
+T2  - Proceedings of the Eurosensors XXIII conference
+SN  - 1876-6196
+DO  - https://doi.org/10.1016/j.proche.2009.07.137
+UR  - http://www.sciencedirect.com/science/article/pii/S1876619609001387
+KW  - Earth sensor
+KW  - gravity gradient torque
+KW  - inertial sensor
+KW  - satellite
+AB  - We present the fabrication and test results of a novel inertial sensor for use onboard satellites, to obtain the Earth vector. Current state-of-the-art Earth sensors determine the Earth vector by imaging the Earth’s horizon in the IR. This requires multiple optical heads on different faces of the satellite, with associated mounting and thermal considerations. The MEMS-based approach reported here is based on measuring the gravity gradient vector by measuring the gravity gradient torque on a 4 cm long Si-pendulum. This approach eliminates the need for multiple external access ports, allowing a compact sensor to be situated anywhere inside the spacecraft.
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DB  - /z-wcorg/
+DP  - http://worldcat.org
+ID  - 5899843813
+LA  - English
+T1  - A comparative study of spacecraft attitude determination and estimation algorithms (a cost-benefit approach)
+AU  - Habib, Tamer Mekky Ahmed
+Y1  - 2013///
+SN  - 1270-9638
+JF  - AESCTE Aerospace Science and Technology
+VL  - 26
+IS  - 1
+SP  - 211
+EP  - 215
+AB  - The primary goal of this work is to investigate various performance indices of spacecraft attitude determination and estimation algorithms to perform a cost-benefit analysis. This analysis could help the designer to choose whether to use an attitude determination algorithm or an attitude estimation algorithm. The choice depends mainly on the available computational resources and the required attitude determination accuracy. These performance indices include accuracy, and execution time. In order to determine these performance indices, a test-case spacecraft is utilized. The test-case spacecraft is subject to aerodynamics forces and moments, solar radiation pressure forces and moments, earths oblateness till the fourth order (i.e. J 4 ), residual magnetic dipole moments, and gravity gradient moments. The available spacecraft attitude sensors are magnetometer and gyro.
+ER  - 

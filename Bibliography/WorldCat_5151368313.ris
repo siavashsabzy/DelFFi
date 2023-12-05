@@ -1,0 +1,16 @@
+TY  - JOUR
+DB  - /z-wcorg/
+DP  - http://worldcat.org
+ID  - 5151368313
+LA  - English
+T1  - Quaternion non-linear filter for estimation of rotating body attitude
+AU  - Aramanovitch, L. I.
+Y1  - 1995///
+SN  - 0170-4214
+JF  - MMA Mathematical Methods in the Applied Sciences
+VL  - 18
+IS  - 15
+SP  - 1239
+EP  - 1255
+AB  - A problem of optimal estimation of a rotating vehicle's attitude with both differential equations of motion and observations of stars by onboard equipment is considered. The problem is formulated like a determinate non-linear Kalman filter problem in quaternion terms. An exact analytical solution of the problem is also found in quaternion terms. Various types of solutions in accordance with a mutual arrangement of observed stars are presented. An example of only one observed star is demonstrated to support the method. The method is also suited for geodetic applications, e.g. geodetic positioning and navigation systems.
+ER  - 
